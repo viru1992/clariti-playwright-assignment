@@ -1,7 +1,7 @@
 {
   "name": "playwright-tests",
   "version": "1.0.0",
-  "description": "Automated tests for PSISB/Swag Labs using Playwright",
+  "description": "Automated tests for Sauce demo Labs using Playwright",
   "main": "index.js",
   "scripts": {
     "pretest": "node generate-allure-env.js",
