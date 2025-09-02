@@ -1,6 +1,6 @@
 # Playwright Test Automation – SauceDemo
 
-Automated tests for the SauceDemo application using Playwright and TypeScript with Allure reporting.
+Automated tests for the SauceDemo application using Playwright and TypeScript with Allure advanced reporting.
 
 ## Project Overview
 
